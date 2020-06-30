@@ -5,6 +5,7 @@
 I developed this app at the very first phrase of my development career. The code is nothing but a mess. But I have a nostalgic feeling about this one.
 
 - Anyone is welcome to create issues and pull requests.
+- Contact developer - development.ionosphere@gmail.com
 
 <p align="center">
 <img src="Screenshots/1.png" width="200">
